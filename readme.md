@@ -5,7 +5,7 @@ English to malayalam dictionary based on olam open source database.
 ### Tech
 
 * [Laravel](https://laravel.com/) - PHP Framework
-* [Sqlite3](https://sqlite.org/index.html) - HTML to Markdown converter
+* [Sqlite3](https://sqlite.org/index.html) - Database
 
 ### Installation
 
