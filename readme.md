@@ -1,4 +1,4 @@
-# English to Malayalam Dictionary
+# English to Malayalam Dictionary [no longer maintained]
 
 English to malayalam dictionary based on olam open source database.
 
